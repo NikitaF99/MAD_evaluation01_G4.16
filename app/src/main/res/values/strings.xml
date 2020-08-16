@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Question</string>
+    <string name="tab_text_3">Settings</string>
+    <string name="ques">No of Questions</string>
+    <string name="studs">No of students</string>
+    <string name="pay">Payment</string>
+    <string name="Feedb">Feedback</string>
+    <string name="teachername">Lucy Lee</string>
+    <string name="edit">Edit profile</string>
+    <string name="out">Signout</string>
+
+</resources>
