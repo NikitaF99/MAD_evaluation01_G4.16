@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AddQs</string>
+    <string name="head">Questions</string>
+    <string name="AddQ">AddQuestion</string>
 </resources>
