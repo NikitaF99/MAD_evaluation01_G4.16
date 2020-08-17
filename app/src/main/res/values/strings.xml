@@ -9,6 +9,9 @@
     <string name="Feedb">Feedback</string>
     <string name="teachername">Lucy Lee</string>
     <string name="edit">Edit profile</string>
-    <string name="out">Signout</string>
+    <string name="out">Sign out</string>
+    <string name="editbtn">Edit</string>
+    <string name="deletebtn">Delete</string>
+
 
 </resources>
