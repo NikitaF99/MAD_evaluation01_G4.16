@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EditQs</string>
+    <string name="edit">Edit Question</string>
+    <string name="save">Save Changes</string>
 </resources>
